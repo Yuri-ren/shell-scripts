@@ -1,5 +1,4 @@
 #!/bin/bash
-######update 2015-09-01 by renyouyin
 
 CURRENT_DATE=$(date +%Y-%m-%d)
 TOMCAT_LOG_FILE=/usr/local/tomcat1/logs
